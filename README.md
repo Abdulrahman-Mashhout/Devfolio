@@ -1,4 +1,4 @@
-# Devfolio-Route
+# Devfolio
 
 DevFolio is a responsive portfolio landing page template perfect for showcasing your skills, projects, and experience. Its modern and clean design ensures a professional presentation.
 
@@ -14,6 +14,3 @@ DevFolio is a responsive portfolio landing page template perfect for showcasing 
 
 - **SEO Friendly**: DevFolio is optimized for search engines, ensuring your portfolio stands out to recruiters and potential clients.
 
-### Live Demo 
-
-https://zyadwalid1.github.io/Devfolio-Route/
